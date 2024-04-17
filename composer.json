@@ -1,0 +1,7 @@
+{
+    "require": {
+        "sicaa/number-to-fr-words": "^1.0",
+        "davmixcool/php-sentiment-analyzer": "^1.2",
+        "kwn/number-to-words": "^2.9"
+    }
+}
